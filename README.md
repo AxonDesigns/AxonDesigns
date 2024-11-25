@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on some personal project involving mobile and web development.
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
-- 💻 All my projects can be found in my [repositories](https://github.com/Sri-lanka?tab=repositories).
+- 💻 All my projects can be found in my [repositories](https://github.com/AxonDesigns?tab=repositories).
 
 ### Languages
 <div class="display:flex;flex-direction:row;row-gap:16px;">
