@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
 - 💻 All my projects can be found in my [repositories](https://github.com/Sri-lanka?tab=repositories).
 
-### Lenguages
+### Languages
 <div class="display:flex;flex-direction:row;row-gap:16px;">
   <img src="https://svgl.app/library/java.svg" alt="Java" width="32" height="32"/>
   <img src="https://svgl.app/library/kotlin.svg" alt="Kotlin" width="32" height="32"/>
