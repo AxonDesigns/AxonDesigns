@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Brayan Stiven Hernández Camacho
 ### Software analist and developer, who loves fullstack development. Always learning and practicing new upcoming tecnologies.
 
-- 🔭 I’m currently working on some personal project involving mobile and web development.
+- 🔭 I’m currently working on some personal projects involving mobile and web development.
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
 - 💻 All my projects can be found in my [repositories](https://github.com/AxonDesigns?tab=repositories).
 
