@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Brayan Stiven Hernández Camacho
-### Software analist and developer, who loves fullstack development. Always learning and practicing new upcoming tecnologies.
+### Software analist and developer who loves fullstack development. Always learning and practicing new upcoming tecnologies.
 
 - 🔭 I’m currently working on some personal projects involving mobile and web development.
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
