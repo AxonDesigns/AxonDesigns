@@ -6,6 +6,7 @@
     <img alt="Youtube Channel" src="https://img.shields.io/badge/AxonStudios-red?style=flat&logo=youtube&color=ff0033">
   </a>
 </div>
+<br>
 
 - 🔭 I’m currently working on some personal projects involving mobile and web development.
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
