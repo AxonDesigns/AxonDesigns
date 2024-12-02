@@ -1,6 +1,12 @@
 ## Hi there 👋, I'm Brayan Stiven Hernández Camacho
 ### Software analist and developer who loves fullstack development. Always learning and practicing new upcoming tecnologies.
-![Youtube Channel](https://img.shields.io/badge/axon_designs-red?style=flat&logo=youtube&color=ff0033&link=https%3A%2F%2Fwww.youtube.com%2F%40axondesigns)
+
+<div class="display:flex;flex-direction:row;row-gap:16px;">
+  <a href="https://www.youtube.com/@axondesigns">
+    <img alt="Youtube Channel" src="https://img.shields.io/badge/AxonStudios-red?style=flat&logo=youtube&color=ff0033">
+  </a>
+</div>
+
 - 🔭 I’m currently working on some personal projects involving mobile and web development.
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
 - 💻 All my projects can be found in my [repositories](https://github.com/AxonDesigns?tab=repositories).
