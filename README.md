@@ -8,9 +8,9 @@
 </div>
 <br>
 
-- 🔭 I’m currently working on some personal projects involving mobile and web development.
+- 🔭 I’m currently working on some personal mobile and web projects.
 - 🌱 I’m currently learning rust 🦀 for desktop and game development.
-- 💻 All my projects can be found in my [repositories](https://github.com/AxonDesigns?tab=repositories).
+- 💻 All my projects can be found in the [repositories](https://github.com/AxonDesigns?tab=repositories) tab.
 
 ### Languages
 <div class="display:flex;flex-direction:row;row-gap:16px;">
