@@ -40,5 +40,3 @@
   <img src="https://dartfrog.vgv.dev/img/logo.svg" alt="Dart Frog" width="32" height="32"/>
   <img src="https://svgl.app/library/azure.svg" alt="Azure" width="32" height="32"/>
 </div>
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxonDesigns&hide_progress=true&theme=dark&bg_color=0d1117&border_color=3d444d" />
